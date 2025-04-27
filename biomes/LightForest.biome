@@ -1,0 +1,26 @@
+offset
+100.0
+amplitude
+20.0
+heightMul
+1.2
+xMul
+0.025
+yMul
+0.04
+zMul
+0.025
+topBlock
+8
+secondBlock
+9
+beachBlock
+11
+flora
+4 2 2 3 4
+floraFrequencyNum
+10
+trees
+1 0
+treeFrequencyNum
+40

@@ -1,0 +1,26 @@
+yOffset
+64.0
+amplitude
+50.0
+noiseOctaves
+5
+noiseMod1
+1.5
+noiseMod2
+10.0
+coordMul
+0.01
+topBlock
+8
+secondBlock
+9
+beachBlock
+11
+flora
+3 2 2 3
+floraFrequencyNum
+10
+trees
+1 0
+treeFrequencyNum
+40
